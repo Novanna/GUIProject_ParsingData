@@ -1,0 +1,34 @@
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\bin\Debug\GUI_Lab6.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\bin\Debug\GUI_Lab6.pdb
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\obj\Debug\GUI_Lab6.csprojResolveAssemblyReference.cache
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\obj\Debug\GUI_Lab6.Form1.resources
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\obj\Debug\GUI_Lab6.Properties.Resources.resources
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\obj\Debug\GUI_Lab6.csproj.GenerateResource.Cache
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\obj\Debug\GUI_Lab6.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab6\GUI_Lab6\obj\Debug\GUI_Lab6.pdb
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.pdb
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\GUI_Lab6.exe
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\GUI_Lab6.pdb
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.csprojResolveAssemblyReference.cache
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.Form1.resources
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.Properties.Resources.resources
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.csproj.GenerateResource.Cache
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.exe.licenses
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\ZedGraph.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\ZedGraph.xml
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\de\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\es\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\fr\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\hu\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\it\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\ja\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\pt\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\ru\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\sk\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\sv\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\tr\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\zh-cn\ZedGraph.resources.dll
+A:\Desktop\Semester 4\PAK TAUFIK - Interface\GUI_Lab7\GUI_Lab6\bin\Debug\zh-tw\ZedGraph.resources.dll
+A:\Desktop\Semester4\PAK TAUFIK - Interface\Before uts\Novanna Rahma Zani - Lab7. Parsing, The Project\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.exe
+A:\Desktop\Semester4\PAK TAUFIK - Interface\Before uts\Novanna Rahma Zani - Lab7. Parsing, The Project\GUI_Lab7\GUI_Lab6\obj\Debug\GUI_Lab6.pdb
